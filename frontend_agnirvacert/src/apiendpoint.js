@@ -1,4 +1,4 @@
-const baseurl = "http://43.205.65.107:5173:8081"
+const baseurl = "http://43.205.65.107:8081"
 
 export const endpoints = {
     verifyCertificate : {
